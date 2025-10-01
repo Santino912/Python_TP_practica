@@ -58,21 +58,6 @@ Complete el siguiente código. Agregue todos los argumentos que necesite a los m
 
 10- Invocando a las funciones anteriores, ¿podría crear un diccionario que corresponda a los consumidores de género femenino (Female) cuya edad supere los 44 años?
 
-12- Cree un objeto de tipo Encuesta y cargue los datos del archivo coffee_survey.csv.
-13- Conclusiones:
-
-Realice un análisis exhaustivo de los datos cargados en el objeto de tipo Encuesta recién creado. ¿Qué información relevante se puede extraer? Puede ayudarse de métodos del objeto para ver los gráficos o imprimir en pantalla información de este objeto. Reflexione sobre las conclusiones que se pueden obtener a partir de esta información.
-
-Además, ¿qué recomendaciones ofrecería a su cliente para optimizar su cafetería? Por ejemplo, ¿a qué segmentos de clientes debería orientar su campaña de marketing para maximizar el impacto y atraer a más consumidores?
-
-¿qué recomendaciones ofrecería a su cliente para optimizar su cafetería? Por ejemplo, ¿a qué segmentos de clientes debería orientar su campaña de marketing para maximizar el impacto y atraer a más consumidores?
-
-Que Oriente su marketing a los clientes de entre 25 y 44 años y que promocione la venta de pourover ya que esta es la mas vendida en estos rangos de edad
-
-
-
-
-
 Etapa 3.
 Análisis de la Encuesta
 
@@ -81,7 +66,6 @@ En esta sección, nos proponemos obtener información relevante sobre las prefer
 Desarrolle una clase en Python que permita gestionar las respuestas de la encuesta sobre preferencias de café. Esta clase será capaz de almacenar, analizar y visualizar datos relacionados con las preferencias de café de distintos consumidores, agrupándolos por rangos de edad y género.
 
 Nota: En los análisis que realice, deberá considerar únicamente las respuestas proporcionadas, ignorando los valores NA.
-
 11- Definir una clase Encuesta que tenga los siguientes
 
 Atributos:
@@ -116,5 +100,26 @@ graficar_grupos_etarios: Método que realiza un gráfico de torta que muestra el
 
 graficar_cafe_favorito_por_grupos_etarios: Método que realiza un gráfico de barras para cada grupo etario, mostrando cuántos consumidores prefieren cada tipo de café.
 
-Complete el siguiente código.
+12- Cree un objeto de tipo Encuesta y cargue los datos del archivo coffee_survey.csv.
+
+13- Conclusiones:
+
+Realice un análisis exhaustivo de los datos cargados en el objeto de tipo Encuesta recién creado. ¿Qué información relevante se puede extraer? Puede ayudarse de métodos del objeto para ver los gráficos o imprimir en pantalla información de este objeto. Reflexione sobre las conclusiones que se pueden obtener a partir de esta información.
+
+Además, ¿qué recomendaciones ofrecería a su cliente para optimizar su cafetería? Por ejemplo, ¿a qué segmentos de clientes debería orientar su campaña de marketing para maximizar el impacto y atraer a más consumidores?
+
+¿qué recomendaciones ofrecería a su cliente para optimizar su cafetería? Por ejemplo, ¿a qué segmentos de clientes debería orientar su campaña de marketing para maximizar el impacto y atraer a más consumidores?
+
+Que Oriente su marketing a los clientes de entre 25 y 44 años y que promocione la venta de pourover ya que esta es la mas vendida en estos rangos de edad
+
+
+
+
+
+
+
+
+
+
+
 
