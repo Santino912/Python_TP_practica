@@ -66,6 +66,7 @@ En esta sección, nos proponemos obtener información relevante sobre las prefer
 Desarrolle una clase en Python que permita gestionar las respuestas de la encuesta sobre preferencias de café. Esta clase será capaz de almacenar, analizar y visualizar datos relacionados con las preferencias de café de distintos consumidores, agrupándolos por rangos de edad y género.
 
 Nota: En los análisis que realice, deberá considerar únicamente las respuestas proporcionadas, ignorando los valores NA.
+
 11- Definir una clase Encuesta que tenga los siguientes
 
 Atributos:
@@ -111,6 +112,7 @@ Además, ¿qué recomendaciones ofrecería a su cliente para optimizar su cafete
 ¿qué recomendaciones ofrecería a su cliente para optimizar su cafetería? Por ejemplo, ¿a qué segmentos de clientes debería orientar su campaña de marketing para maximizar el impacto y atraer a más consumidores?
 
 Que Oriente su marketing a los clientes de entre 25 y 44 años y que promocione la venta de pourover ya que esta es la mas vendida en estos rangos de edad
+
 
 
 
