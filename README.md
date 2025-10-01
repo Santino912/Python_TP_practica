@@ -1,4 +1,4 @@
-﻿# Python_practica
+﻿# Python_TP_practica
 Trabajo Práctico: La Gran Prueba de Sabor
 
 Consignas
@@ -117,3 +117,4 @@ graficar_grupos_etarios: Método que realiza un gráfico de torta que muestra el
 graficar_cafe_favorito_por_grupos_etarios: Método que realiza un gráfico de barras para cada grupo etario, mostrando cuántos consumidores prefieren cada tipo de café.
 
 Complete el siguiente código.
+
